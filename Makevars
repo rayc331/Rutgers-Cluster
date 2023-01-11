@@ -1,0 +1,4 @@
+
+CXX14 = /projects/community/gcc/9.2.0/gc563/bin/g++# or clang++ if you have that
+CXX14FLAGS = -O3
+CXX14FLAGS += -fPIC
